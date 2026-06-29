@@ -4,7 +4,7 @@ using namespace std;
 
 //  CONSTANTS & STRUCTURE
 
-const int MAX_MEMBERS = 100;
+const int MAX_MEMBERS = 200;
 
 struct Member {
     int    id;

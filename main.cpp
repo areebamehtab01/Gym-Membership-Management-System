@@ -13,6 +13,7 @@ struct Member {
     string phone;
     string membershipType;
     float  fee;
+    
 };
 
 //  GLOBAL DATA
